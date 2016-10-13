@@ -1,0 +1,101 @@
+[{
+    "name": "My home 1",
+    "id": 1,
+    "pages": [{
+        "pageId": 1,
+        "pageName": "Kitchen"
+    }, {
+        "pageId": 2,
+        "pageName": "Room"
+    }],
+    "widgets": [{
+        "descr": "Reactor 1",
+        "id": 1,
+        "idx": 100,
+        "pageId": 1,
+        "widget": "anydata",
+        "topic": "domoticz/out",
+        "class1": "item no-border",
+        "style2": "font-size:20px;float:left",
+        "style3": "font-size:40px;font-weight:bold;float:right",
+        "device": "profiler",
+        "page": "KITCHEN 2",
+        "class2": "dark-bg light",
+        "status": "",
+        "class3": "",
+        "widgetConfig": {
+            "class3": "",
+            "style3": "font-size:40px;font-weight:bold;float:right"
+        }
+    }, {
+        "descr": "Reactor 2",
+        "id": 2,
+        "idx": 101,
+        "pageId": 2,
+        "widget": "anydata",
+        "topic": "domoticz/out",
+        "class1": "item no-border",
+        "style2": "font-size:20px;float:left",
+        "style3": "font-size:40px;font-weight:bold;float:right",
+        "device": "profiler",
+        "page": "ROOM 2",
+        "class2": "dark-bg light",
+        "status": "",
+        "class3": "",
+        "widgetConfig": {
+            "class3": "",
+            "style3": "font-size:40px;font-weight:bold;float:right"
+        }
+    }],
+    "active": true
+}, {
+    "name": "My home 2",
+    "id": 2,
+    "pages": [{
+        "pageId": 10,
+        "pageName": "Kitchen 2"
+    }, {
+        "pageId": 20,
+        "pageName": "Room 2"
+    }],
+    "widgets": [{
+        "descr": "Reactor 10",
+        "id": 1,
+        "idx": 100,
+        "pageId": 1,
+        "widget": "anydata",
+        "topic": "domoticz/out",
+        "class1": "item no-border",
+        "style2": "font-size:20px;float:left",
+        "style3": "font-size:40px;font-weight:bold;float:right",
+        "device": "profiler",
+        "page": "KITCHEN 2",
+        "class2": "dark-bg light",
+        "status": "",
+        "class3": "",
+        "widgetConfig": {
+            "class3": "",
+            "style3": "font-size:40px;font-weight:bold;float:right"
+        }
+    }, {
+        "descr": "Reactor 20",
+        "id": 2,
+        "idx": 101,
+        "pageId": 2,
+        "widget": "anydata",
+        "topic": "domoticz/out",
+        "class1": "item no-border",
+        "style2": "font-size:20px;float:left",
+        "style3": "font-size:40px;font-weight:bold;float:right",
+        "device": "profiler",
+        "page": "ROOM 2",
+        "class2": "dark-bg light",
+        "status": "",
+        "class3": "",
+        "widgetConfig": {
+            "class3": "",
+            "style3": "font-size:40px;font-weight:bold;float:right"
+        }
+    }],
+    "active": true
+}]

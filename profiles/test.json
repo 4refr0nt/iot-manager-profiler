@@ -1,0 +1,27 @@
+[
+ {
+  "name": "My home",
+  "id": 1,
+  "pages": [
+   {
+    "pageId": 1,
+    "pageName": "Kitchen"
+   }
+  ],
+  "widgets": [
+   {
+    "descr": "Temp",
+    "id": 1,
+    "idx": 100,
+    "pageId": 1,
+    "widget": "anydata",
+    "topic": "domoticz/out",
+    "class1": "item no-border",
+    "style2": "font-size:20px;float:left",
+    "style3": "font-size:40px;font-weight:bold;float:right",
+    "device": "profiler",
+   }
+  ],
+  "active": true
+ }
+]
