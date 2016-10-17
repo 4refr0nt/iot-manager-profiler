@@ -1,6 +1,6 @@
 /**
  * IoT Manager
- * config
+ * proLoader config
  */
 module.exports = {
 //	host: 'm11.cloudmqtt.com',
